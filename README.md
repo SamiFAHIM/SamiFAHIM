@@ -1,5 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/33390b88-dfd6-4e82-a16d-4d6a88507fc6)
- Sami FAHIM
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://github.com/user-attachments/assets/33390b88-dfd6-4e82-a16d-4d6a88507fc6)"/> # Sami FAHIM
 
 **`Electrical Engineering Student (Embedded/Robotics/automation)`**
 
