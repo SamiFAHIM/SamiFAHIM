@@ -5,8 +5,7 @@
 <img align="left" alt="Coding Icon" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SamiFAHIM/SamiFAHIM/f5eea121886ae936a976240579105e0b31a129a7/icons/coding-svgrepo-com.svg" />
 <br>
 <br>
-<br>
-<br>
+
 # Sami FAHIM
 
 <br>
