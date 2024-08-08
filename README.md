@@ -5,6 +5,8 @@
 <img align="left" alt="Coding Icon" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/SamiFAHIM/SamiFAHIM/f5eea121886ae936a976240579105e0b31a129a7/icons/coding-svgrepo-com.svg" />
 # Sami FAHIM
 
+
+
 **`Electrical Engineering Student (Embedded/Robotics/automation)`**
 
 I'm Sami Fahim, an Electrical Engineering student at INSA Lyon with a deep passion for embedded systems, automation, and project management. I've gained valuable experience in each of these areas through diverse and hands-on experiences, fueling my drive to innovate and thrive.With hands-on experience in the energy sector, I've developed a deep understanding of high-stakes environments and the importance of precision and reliability.
