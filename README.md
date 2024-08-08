@@ -1,4 +1,5 @@
-# 🏄‍♂️ Sami FAHIM
+# ![image](https://github.com/user-attachments/assets/33390b88-dfd6-4e82-a16d-4d6a88507fc6)
+ Sami FAHIM
 
 **`Electrical Engineering Student (Embedded/Robotics/automation)`**
 
