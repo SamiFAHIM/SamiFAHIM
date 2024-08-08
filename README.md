@@ -1,4 +1,4 @@
-<img align="left" alt="Computer Science" width="30px" style="padding-right:10px;" src="[file:///C:/Users/fahimsam/AppData/Local/Temp/MicrosoftEdgeDownloads/2b8410f5-c035-4fbd-9354-620a39b23311/coding-svgrepo-com.svg]"/> 
+<img align="left" alt="Computer Science" width="30px" style="padding-right:10px;" src="[https://raw.githubusercontent.com/SamiFAHIM/SamiFAHIM/f5eea121886ae936a976240579105e0b31a129a7/icons/coding-svgrepo-com.svg]"/> 
 # Sami FAHIM
 
 **`Electrical Engineering Student (Embedded/Robotics/automation)`**
