@@ -62,7 +62,7 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 - **[Boost converter (Power Electronics)](https://github.com/SamiFAHIM/Boost-converter-design)**  
   *Desgning and simulating a boost converter using Ltspice.*
   
-- **[Multi-Sensor Application Development (Embedded systems/ Microcontrollers/ C](#)**  
+- **[Multi-Sensor Application Development (Embedded systems/ Microcontrollers/ C)](#)**  
   *A comprehensive multi-sensor application using STM32 and PIC32 microcontrollers.*
   
 - **[A game developed with JAVA](https://github.com/Iman974/Algo_Proj2A)**  
