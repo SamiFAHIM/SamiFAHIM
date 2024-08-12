@@ -49,8 +49,6 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 
 ## 📂 Projects
 
-- **[Multi-Sensor Application Development](#)**  
-  *A comprehensive multi-sensor application using STM32 and PIC32 microcontrollers.*
 
 - **[Autonomous Robot for French Robotics Contest](https://github.com/SamiFAHIM/Robot-controlling-project)**  
   *An autonomous robot developed using ROS, featuring advanced control systems and image recognition capabilities, among my main contributions was the implementation of the software controlling the robot.*
@@ -58,11 +56,17 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 - **[Control System for Single-Phase DC/AC Inverter](#)**  
   *A control system for ensuring stable power supply, designed with MATLAB and Simulink.*
   
- - **[RF power amplifier](https://github.com/SamiFAHIM/ADS_project_amplifier_design)**  
+- **[RF power amplifier](https://github.com/SamiFAHIM/ADS_project_amplifier_design)**  
   *Desgning and simulating a power amplifier using ADS-Keysight Technologies software.*
 
- - **[Boost converter](https://github.com/SamiFAHIM/Boost-converter-design)**  
+- **[Boost converter](https://github.com/SamiFAHIM/Boost-converter-design)**  
   *Desgning and simulating a boost converter using Ltspice.*
+  
+- **[Multi-Sensor Application Development](#)**  
+  *A comprehensive multi-sensor application using STM32 and PIC32 microcontrollers.*
+  
+- **[A game developed with JAVA](https://github.com/Iman974/Algo_Proj2A)**  
+  *A Java-based game where players destroy particles representing electrons, protons, and neutrons, blending entertainment with the science of particle interactions. The game aims to teach while providing engaging gameplay. .*
 
 ## 🏆 Leadership and Experience
 
