@@ -50,19 +50,19 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 ## 📂 Projects
 
 
-- **[Autonomous Robot for French Robotics Contest](https://github.com/SamiFAHIM/Robot-controlling-project)**  
+- **[Autonomous Robot for French Robotics Contest (C/C++/python/ROS)](https://github.com/SamiFAHIM/Robot-controlling-project)**  
   *An autonomous robot developed using ROS, featuring advanced control systems and image recognition capabilities, among my main contributions was the implementation of the software controlling the robot.*
 
-- **[Control System for Single-Phase DC/AC Inverter](#)**  
+- **[Control System for Single-Phase DC/AC Inverter (Matlab/ regulation/ Simulink)](#)**  
   *A control system for ensuring stable power supply, designed with MATLAB and Simulink.*
   
-- **[RF power amplifier](https://github.com/SamiFAHIM/ADS_project_amplifier_design)**  
+- **[RF power amplifier (Electronics/Radio frequency Electronics)](https://github.com/SamiFAHIM/ADS_project_amplifier_design)**  
   *Desgning and simulating a power amplifier using ADS-Keysight Technologies software.*
 
-- **[Boost converter](https://github.com/SamiFAHIM/Boost-converter-design)**  
+- **[Boost converter (Power Electronics)](https://github.com/SamiFAHIM/Boost-converter-design)**  
   *Desgning and simulating a boost converter using Ltspice.*
   
-- **[Multi-Sensor Application Development](#)**  
+- **[Multi-Sensor Application Development (Embedded systems/ Microcontrollers/ C](#)**  
   *A comprehensive multi-sensor application using STM32 and PIC32 microcontrollers.*
   
 - **[A game developed with JAVA](https://github.com/Iman974/Algo_Proj2A)**  
