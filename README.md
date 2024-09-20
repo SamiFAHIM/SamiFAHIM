@@ -52,6 +52,8 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 
 - **[Autonomous Robot for French Robotics Contest (C/C++/python/ROS)](https://github.com/SamiFAHIM/Robot-controlling-project)**  
   *An autonomous robot developed using ROS, featuring advanced control systems and image recognition capabilities, among my main contributions was the implementation of the software controlling the robot.*
+- **[Autonomous Robot for French Robotics Contest (C/C++/python/ROS)](https://github.com/SamiFAHIM/Robot-controlling-project)**  
+  *The behavioral tree of the Clubelek's Robot, my main contribution was to develop a part of the behavioral tree and to configure the Navigation Stack of the robot .*
 
 - **[Control System for Single-Phase DC/AC Inverter (Matlab/ regulation/ Simulink)](#)**  
   *A control system for ensuring stable power supply, designed with MATLAB and Simulink.*
