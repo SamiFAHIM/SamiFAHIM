@@ -9,7 +9,8 @@
 ### Sami FAHIM 🙋🏼‍♂️
 
 <br>
-[My curriculum vitae](https://www.eurobot.org/)
+
+[My curriculum vitae](https://drive.google.com/file/d/172DzYXdLTB2Igoz-plZpV3Y5EyudRwoe/view?usp=drive_link)
 
 **`Electrical Engineering Student (Embedded/Robotics/automation)`**
 
