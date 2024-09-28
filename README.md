@@ -52,6 +52,8 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 
 ## 📂 Projects
 
+- **[Autonomous Robot for French Robotics Contest (C++/ESP/FreeRTOS)](https://github.com/SamiFAHIM/Multi-tasking-and-RTOS-for-Robotics)**  
+  *An autonomous robot developed on ESP32 microcontroller, using Real Time Operating System. Those autonomous robots called small independent mobile actuator (or SIMA), they assist the main robot participating in the Eurobot Contest and have an important role during the matches. [Here](https://www.eurobot.org/) to know more about the competition. *
 
 - **[Autonomous Robot for French Robotics Contest (C/C++/python/ROS)](https://github.com/SamiFAHIM/Robot-controlling-project)**  
   *An autonomous robot developed using ROS, featuring advanced control systems and image recognition capabilities, among my main contributions was the implementation of the software controlling the robot.*
