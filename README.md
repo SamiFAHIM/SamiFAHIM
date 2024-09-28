@@ -40,7 +40,7 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 ## 🔧 Skills and Expertise
 
 - **Embedded Systems:** STM32, PIC32, Raspberry, ROS, ESP,
-- - **Software Tools:** Git, Linux, ROS, SQL, FreeRTOS
+- **Software Tools:** Git, Linux, ROS, SQL, FreeRTOS
 - **Softwares:** Unity Pro, Simulink, LTspice, Kicad, Xilinx, MPLAB, MATLAB
 - **Languages:** English (Professional), French (Native), Arabic (Native)
 
