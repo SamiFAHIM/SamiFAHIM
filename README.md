@@ -60,7 +60,7 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 - **[Autonomous Robot for French Robotics Contest : Behavioral Tree and Nav Stack (C/C++/python/ROS)](https://github.com/SamiFAHIM/robot-behavioral-tree-and-Nav-Stack/tree/main)**  
   *The behavioral tree of the Clubelek's Robot, my main contribution was to develop a part of the behavioral tree and to configure the Navigation Stack of the robot .*
 
-- **[Control System for Single-Phase DC/AC Inverter (Matlab/ regulation/ Simulink)](#)**  
+- **[Control System for Single-Phase DC/AC Inverter (Matlab/ regulation/ Simulink)](https://github.com/SamiFAHIM/Uninterrupted-power-supply)**  
   *A control system for ensuring stable power supply, designed with MATLAB and Simulink.*
   
 - **[RF power amplifier (Electronics/Radio frequency Electronics)](https://github.com/SamiFAHIM/ADS_project_amplifier_design)**  
