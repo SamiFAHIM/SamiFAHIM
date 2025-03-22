@@ -12,9 +12,9 @@
 
 [My curriculum vitae](https://drive.google.com/file/d/172DzYXdLTB2Igoz-plZpV3Y5EyudRwoe/view?usp=drive_link)
 
-**`Electrical Engineering Student (Embedded/Robotics/automation)`**
+**`Computer Vision & Machine Learning Engineer | Embedded Systems | Robotics`**
 
-I'm Sami Fahim, an Electrical Engineering student at INSA Lyon with a deep passion for embedded systems, automation, and project management. I've gained valuable experience in each of these areas through diverse and hands-on experiences, fueling my drive to innovate and thrive.With hands-on experience in the energy sector, I've developed a deep understanding of high-stakes environments and the importance of precision and reliability.
+I'm Sami Fahim, a Computer Vision and Machine Learning Engineer currently working on real-world applications of AI and image processing for precision agriculture in a Swedish fast-growing company : Ecobloom Technologies AB . With a solid foundation in machine learning, embedded systems, automation, and robotics, I bring a hands-on and interdisciplinary approach to problem-solving. I've gained valuable experience in each of these areas through diverse and hands-on experiences, fueling my drive to innovate and thrive.
 
 Leadership is a core part of who I am—whether it's guiding a team of 20 members representing my university in the [European Robotic Contest](https://www.eurobot.org/) or spearheading projects that push boundaries. I'm always looking for ways to inspire those around me and make a meaningful impact. I believe that a diverse range of interests is the key to sparking creativity and driving innovation, and I'm excited to connect with like-minded individuals who share that vision.
 
@@ -39,6 +39,7 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 
 ## 🔧 Skills and Expertise
 
+- **Computer Vision & Deep Learning:** PyTorch, TensorFlow, scikit-learn, OpenCV
 - **Embedded Systems:** STM32, PIC32, Raspberry, ROS, ESP,
 - **Software Tools:** Git, Linux, ROS, SQL, FreeRTOS
 - **Softwares:** Unity Pro, Simulink, LTspice, Kicad, Xilinx, MPLAB, MATLAB
@@ -47,11 +48,14 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 ## 📘 Education
 
 **Master of Science in Engineering**  
-*Major in Electrical Engineering and Robotics, Minor in Digital Signal and Image Processing*  
+*Major in Image processsing and Robotics, Minor in Machine Learning*  
 **INSA Lyon, France** (2020 - 2025)
 
 ## 📂 Projects
 
+- **[Image Reconstruction using Deep Learning (PyTorch)](https://github.com/SamiFAHIM/image_recontruction_ML)**  
+  *Static and dynamic image reconstruction using an encoder-based architecture and end-to-end training methods. Implemented in PyTorch.*
+  
 - **[Autonomous Robot for French Robotics Contest (C++/ESP/FreeRTOS)](https://github.com/SamiFAHIM/Multi-tasking-and-RTOS-for-Robotics)**  
   *An autonomous robot developed on ESP32 microcontroller, using Real Time Operating System. Those autonomous robots called small independent mobile actuator (or SIMA), they assist the main robot participating in the Eurobot Contest and have an important role during the matches. [Here](https://www.eurobot.org/) to know more about the competition.*
 
@@ -77,6 +81,9 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 
 ## 🏆 Leadership and Experience
 
+- **Computer Vision & ML Intern, Ecobloom (Sweden)**  
+  Developed an image-based pipeline for early plant stress detection, achieving 90% accuracy five days before visual symptoms appeared.
+  
 - **President, Clubelek Association** (2022 - 2023)  
   Managed an 80-member association, leading projects like the design and construction of a TESLA machine, and promoting science and engineering among youth.
 
