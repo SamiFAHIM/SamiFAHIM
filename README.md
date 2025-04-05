@@ -53,7 +53,7 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 
 ## 📂 Projects
 
-- **[Image Reconstruction using Deep Learning (PyTorch)](https://github.com/SamiFAHIM/image_recontruction_ML)**  
+- **[Image Reconstruction using Deep Learning (PyTorch)](https://github.com/SamiFAHIM/image_recontruction_ML/tree/tdsi/2024_tdsi)**  
   *Contributed to the **spirit** Singel Pixel Imaging open source library by developping an encoder-based model and training it end-to-end to improve static and dynamic image reconstruction. Implemented in PyTorch.*
   
 - **[Autonomous Robot for French Robotics Contest (C++/ESP/FreeRTOS)](https://github.com/SamiFAHIM/Multi-tasking-and-RTOS-for-Robotics)**  
