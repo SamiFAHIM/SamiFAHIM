@@ -54,7 +54,7 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 ## 📂 Projects
 
 - **[Image Reconstruction using Deep Learning (PyTorch)](https://github.com/SamiFAHIM/image_recontruction_ML)**  
-  *Static and dynamic image reconstruction using an encoder-based architecture and end-to-end training methods. Implemented in PyTorch.*
+  *Contributed to the **spirit** Singel Pixel Imaging open source library by developping an encoder-based model and training it end-to-end to improve static and dynamic image reconstruction. Implemented in PyTorch.*
   
 - **[Autonomous Robot for French Robotics Contest (C++/ESP/FreeRTOS)](https://github.com/SamiFAHIM/Multi-tasking-and-RTOS-for-Robotics)**  
   *An autonomous robot developed on ESP32 microcontroller, using Real Time Operating System. Those autonomous robots called small independent mobile actuator (or SIMA), they assist the main robot participating in the Eurobot Contest and have an important role during the matches. [Here](https://www.eurobot.org/) to know more about the competition.*
