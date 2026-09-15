@@ -39,11 +39,11 @@ Leadership is a core part of who I am—whether it's guiding a team of 20 member
 
 ## 🔧 Skills and Expertise
 
+- **Gen AI** Google ADK, MCP, Langfuse
 - **Computer Vision & Deep Learning:** PyTorch, TensorFlow, scikit-learn, OpenCV
 - **Embedded Systems:** STM32, PIC32, Raspberry, ROS, ESP,
-- **Software Tools:** Git, Linux, ROS, SQL, FreeRTOS
-- **Softwares:** Unity Pro, Simulink, LTspice, Kicad, Xilinx, MPLAB, MATLAB
-- **Languages:** English (Professional), French (Native), Arabic (Native)
+- **Software Tools:** Git, Linux, ROS, SQL, Django, FreeRTOS
+- **Languages:** English (Professional), French (Native), Arabic (Native), Swedish (Notions)
 
 ## 📘 Education
 
